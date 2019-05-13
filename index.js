@@ -7,3 +7,5 @@ console.log(math.add(1,3)); // 4
 console.log(math.subtract(1,3)); // -2
 console.log(math.multiply(5,5)); // 25
 console.log(math.divide(10,2)); // 5
+console.log(math.divide(10,0)); // Cannot divide by zero
+
