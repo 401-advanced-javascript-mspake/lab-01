@@ -2,7 +2,7 @@
 
 const greet = require('./lib/greet.js');
 const math = require('./lib/arithmetic.js');
-console.log(greet('JOHN')); // Hello, JOHN
+console.log(greet('JOHN')); // hello, JOHN
 console.log(greet(12)); // null
 console.log(math.add([1,3,10])); // 14
 console.log(math.subtract([1,3,10])); // -12
